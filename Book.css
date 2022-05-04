@@ -36,6 +36,11 @@ body{
     top:30px;
 }
 
+#CheckForAV:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
 #LabelSelectNumOfPeop{
     display: none;
 }
@@ -46,4 +51,150 @@ body{
     width:1295px;
     height:50px;
     top:-10px;
+}
+
+#OptionsForSpaMain{
+    position:absolute;
+    left:270px;
+    top:550px;
+}
+
+
+
+#BoxFor1{
+    background-color: rgb(41, 40, 39);
+}
+
+#arielove{
+    height:200px;
+}
+
+
+.Select-1{
+    background-color: rgba(194,164,113,255);
+}
+
+#Select-2{
+    background-color: rgba(194,164,113,255);
+}
+
+
+#Select-3{
+    background-color: rgba(194,164,113,255);
+}
+
+#Select-1:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+#Select-12:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+#Select-2:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+#Select-22:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+#Select-3:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+#Select-32:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+
+
+
+
+#BoxFor2{
+    background-color: rgb(41, 40, 39);
+}
+
+#arierelaxing{
+    height:220px;
+}
+
+#arierelaxingand45{
+    height:220px;
+}
+
+#BoxFor3{
+    background-color: rgb(41, 40, 39);
+}
+
+
+#divider2{
+    color:rgba(194,164,113,255);
+    position: absolute;
+    top:550px;
+    left:270px;
+}
+
+#divider3{
+    color:rgba(194,164,113,255);
+    position: absolute;
+    top:1790px;
+    left:270px;
+}
+
+#divider4{
+    color:rgba(194,164,113,255);
+    position: absolute;
+    top:2120px;
+    left:270px;
+}
+
+#TimeBox{
+    background-color: rgb(41, 40, 39);
+    position:absolute;
+    top:1850px;
+    left:270px;
+}
+
+#timebuttons{
+    border-radius: 5px;
+    background: linear-gradient(126deg, rgba(27, 27, 27, 1) 0%, rgba(18, 18, 18, 1) 100%);
+    color:rgba(194,164,113,255);
+    border-top-color: rgba(194, 164, 113, .3);
+    border-left-color: rgba(194, 164, 113, .3);
+    border-right-color: #050505;
+    border-bottom-color: #050505;
+    border-width: 1px;
+    width: 150px;
+    height: 150px;
+}
+
+#timebuttons:hover{
+    background:black;
+}
+
+#timebuttons:active{
+    background:rgba(194,164,113,255);
+    color:#050505
+}
+
+#timebuttons + #timebuttons{
+    margin-right: 5px;
+}
+
+#Summary{
+    position: absolute;
+    top: 2080px;
+    left:880px;
+}
+
+#Summary:hover{
+    background:black;
+    color:rgba(194,164,113,255);
 }

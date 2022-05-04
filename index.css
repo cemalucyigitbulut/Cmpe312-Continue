@@ -78,7 +78,12 @@ body{
 
 #bottom-horizantal{
     position:relative;
-    top:-10px;
+    top:-25px;
+}
+
+#upper-horizantal{
+    position:relative;
+    top:20px;
 }
 
 .Masseuse{

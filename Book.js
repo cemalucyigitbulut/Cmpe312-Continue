@@ -5,7 +5,7 @@ window.onload = function() {
 
 function showLabel(divId, element)
 {
-    document.getElementById(divId).style.display = element.value == 1 ? 'block' : 'none';
+    document.getElementById(divId).style.display = element.value !== 0 ? 'block' : 'none';
 }
 
 

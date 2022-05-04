@@ -1,0 +1,129 @@
+body{
+    background:rgb(34, 33, 33);
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+#SpaLogo{
+    height:200px;
+    position: relative;
+    right:70px;
+}
+
+#navbarr{
+    height:70px;
+}
+
+.TextOrIcon-Gold{
+    color:rgba(194,164,113,255);
+}
+
+.TextOrIcon-Grey{
+    color:rgb(196, 186, 186);
+}
+
+.nav-link{
+    background-color: rgba(194,164,113,255);
+}
+
+#booking_date{
+    position: absolute;
+    top:160px;
+    font-size: 20px;
+}
+
+#booking_time{
+    position: absolute;
+    top:200px;
+    font-size: 20px;
+}
+
+#booking_choosed_service{
+        position: absolute;
+        top:240px;
+        font-size: 20px;
+    
+}
+
+#booking_choosed_service_money{
+    position: absolute;
+    top:280px;
+    font-size: 20px;
+}
+
+#Purchase_Sum_h2{
+    position: absolute;
+    top:100px;
+}
+
+
+#First_Name{
+    position: Relative;
+        top:340px;
+    height: 60px;
+}
+
+#Last_Name{
+    position: Relative;
+        top:340px;
+        height: 60px;
+}
+
+#Phone_Num{
+    position: Relative;
+        top:360px;
+        height: 60px;
+}
+
+#Y-Email{
+    position: Relative;
+        top:360px;
+        height: 60px;
+}
+
+#Terms-Read-ed{
+    position: Relative;
+        top:390px;
+}
+
+#Privacy_Notice_Read{
+    position: Relative;
+        top:395px;
+}
+
+#Pregnant_Notice_Read{
+    position: Relative;
+        top:400px;
+}
+
+#Age_Notice_Read{
+    position: Relative;
+        top:405px;
+}
+
+#Finish{
+    position: Relative;
+        top:425px;
+        left:940px;
+    background-color:black;
+}
+
+#Finish:hover{
+    background:rgba(194,164,113,255);
+    color:black;
+}
+
+
+#Back{
+    position: Relative;
+        top:-220px;
+        left:1340px;
+    background-color:rgba(194,164,113,255);
+}
+
+#Back:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}

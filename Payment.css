@@ -1,0 +1,91 @@
+body{
+    background:rgb(34, 33, 33);
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+#SpaLogo{
+    height:200px;
+    position: relative;
+    right:70px;
+}
+
+#navbarr{
+    height:70px;
+}
+
+.TextOrIcon-Gold{
+    color:rgba(194,164,113,255);
+}
+
+.TextOrIcon-Grey{
+    color:rgb(196, 186, 186);
+}
+
+.nav-link{
+    background-color: rgba(194,164,113,255);
+}
+
+#Payment-H{
+    position: absolute;
+    top:80px;
+    left:830px;
+}
+
+
+#Card_Num{
+    position: absolute;
+    top:60px;
+    left:250px;
+}
+
+#F_L_Card{
+    position: absolute;
+    top:150px;
+    left:250px;
+}
+
+#Exp_Date{
+    position: absolute;
+    top:250px;
+    left:250px;
+}
+
+#CVV_Num{
+    position: absolute;
+    top:340px;
+    left:250px;
+}
+
+#Address{
+    position: absolute;
+    top:430px;
+    left:250px;
+}
+
+#Pay{
+    position: Relative;
+        top:590px;
+        left:860px;
+    background-color:rgba(194,164,113,255);
+}
+
+#Pay:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
+
+
+#Back{
+    position: Relative;
+        top:90px;
+        left:1640px;
+    background-color:rgba(194,164,113,255);
+}
+
+#Back:hover{
+    background:black;
+    color:rgba(194,164,113,255);
+}
