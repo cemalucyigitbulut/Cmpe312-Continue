@@ -103,14 +103,14 @@ a:link {
         top:405px;
 }
 
-#Finish{
+#Payment{
     position: Relative;
         top:425px;
-        left:940px;
+        left:880px;
     background-color:black;
 }
 
-#Finish:hover{
+#Payment:hover{
     background:rgba(194,164,113,255);
     color:black;
 }
@@ -118,7 +118,7 @@ a:link {
 
 #Back{
     position: Relative;
-        top:-220px;
+        top:-200px;
         left:1340px;
     background-color:rgba(194,164,113,255);
 }
