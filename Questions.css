@@ -1,0 +1,67 @@
+body{
+    background:rgb(34, 33, 33);
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+#SpaLogo{
+    height:200px;
+    position: relative;
+    right:70px;
+}
+
+#navbarr{
+    height:70px;
+}
+
+.TextOrIcon-Gold{
+    color:rgba(194,164,113,255);
+}
+
+.TextOrIcon-Grey{
+    color:rgb(196, 186, 186);
+}
+
+.nav-link{
+    background-color: rgba(194,164,113,255);
+}
+
+
+#Başlıg{
+    position:absolute;
+    top: 40px;
+    left: 250px;
+}
+
+#Y-Email{
+    position:absolute;
+    top: 90px;
+    left: 250px;
+}
+
+#Title_Ques{
+    position:absolute;
+    top: 180px;
+    left: 250px;
+}
+
+#Question_Section{
+    position:absolute;
+    top: 260px;
+    left: 250px;
+}
+
+#SubmitButt{
+    background-color: rgba(194,164,113,255);
+    color:black;
+}
+
+#SubmitButt:hover{
+    background-color: black;
+    color:rgba(194,164,113,255);
+}
+
+
+

@@ -1,0 +1,53 @@
+body{
+    background:rgb(34, 33, 33);
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+#SpaLogo{
+    height:200px;
+    position: relative;
+    right:70px;
+}
+
+#navbarr{
+    height:70px;
+}
+
+.TextOrIcon-Gold{
+    color:rgba(194,164,113,255);
+}
+
+.TextOrIcon-Grey{
+    color:rgb(196, 186, 186);
+}
+
+.nav-link{
+    background-color: rgba(194,164,113,255);
+}
+
+#WhoTfAsked{
+    position: absolute;
+    top:200px;
+    left:390px;
+}
+
+#WhoTfAsked2{
+    position: absolute;
+    top:250px;
+    left:700px;
+}
+
+#WhoTfAsked3{
+    position: absolute;
+    top:300px;
+    left:470px;
+}
+
+#spinner_but{
+    position: absolute;
+    top:370px;
+    left:930px;
+}
