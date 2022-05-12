@@ -4,6 +4,45 @@ body{
     overflow-x: hidden;
 }
 
+#offcanvas-button{
+    background:rgba(194,164,113,255); 
+    color:rgb(34, 33, 33);
+}
+
+#offcanvas-button:hover{
+    background:Black; 
+    color:rgba(194,164,113,255);;
+}
+
+#offcanvas_button2{
+    background:rgba(194,164,113,255); 
+    color:rgb(34, 33, 33);
+}
+
+
+#offcanvas_button2:hover{
+    background:Black; 
+    color:rgba(194,164,113,255);;
+}
+
+#offcanvas_body{
+    background-color:rgb(34, 33, 33); 
+}
+
+#offcanvas-header{
+    background-color:rgb(34, 33, 33); 
+}
+
+#offcanvas_button_close{
+    color:rgba(194,164,113,255);;
+}
+
+#offcanvas-button{
+    position:absolute;
+    left: 820px;
+    top:230px;
+}
+
 
 #SpaLogo{
     height:200px;
