@@ -39,8 +39,9 @@ body{
 
 #offcanvas-button{
     position:absolute;
-    left: 820px;
-    top:230px;
+    left: 1320px;
+    top:15px;
+    z-index:5;
 }
 
 
@@ -52,6 +53,7 @@ body{
 
 #navbarr{
     height:70px;
+    z-index:4;
 }
 
 
